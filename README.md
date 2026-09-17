@@ -1,1 +1,1 @@
-# SE-Git-hw
+A merge conflict was intentionally simulated by creating a conflict-demo branch and modifying the same line in hello.py differently on both the main and conflict-demo branches. When the branches were merged, Git could not automatically determine which version to retain and generated a merge conflict. I manually reviewed the conflicting changes, selected the desired final content, removed the conflict markers, staged the resolved file, and committed the resolution.
